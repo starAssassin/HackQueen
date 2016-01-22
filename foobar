@@ -1,0 +1,8 @@
+Enter file contents here
+<script>
+    var foo = "this is how it goes";
+    function sfoo (foo) {
+       document.getElementById("myDIV").style.display = "none";
+    }
+
+</script>
